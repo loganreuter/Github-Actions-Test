@@ -10,4 +10,4 @@ class TestCalculator(unittest.TestCase):
         self.assertEqual(sub(2,2), 0)
     
     def test_mul(self):
-        self.assertEqual(mul(2,2), 3)
+        self.assertEqual(mul(2,2), 4)
